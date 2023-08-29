@@ -25,7 +25,7 @@ Once you have your Swift package set up, adding PageIndicatorControl as a depend
 
 ```swift
 dependencies: [
-    .package(url: "", .upToNextMajor(from: ""))
+    .package(url: "https://github.com/advantagefse/AnimatedPageControl-SwiftUI.git", .upToNextMajor(from: "1.0.0"))
 ]
 ```
 
